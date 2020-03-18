@@ -1,0 +1,19 @@
+{
+  "name": "arcgisjs2svg",
+  "version": "0.0.0",
+  "description": "onverts spatial features from the ArcGIS JS API to SVGs that can be directly addressed in the DOM",
+  "license": "MIT",
+  "repository": "nbumbarger/arcgisjs2svg",
+  "main": "index.js",
+  "keywords": [
+    "ArcGIS JS API",
+    "SVG",
+    "features",
+    "convert",
+    "conversion"
+  ]
+  },
+  "dependencies": {
+    "chroma-js": "^2.1.0"
+  }
+}
